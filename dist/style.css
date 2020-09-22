@@ -37,3 +37,36 @@ img {
 .pb30 {
   padding-bottom: 15px;
 }
+.pt12 {
+  padding-top: 6px;
+}
+.inlineBlock {
+  display: inline-block;
+}
+.em {
+  width: 1.5em;
+  height: 1.5em;
+}
+.hd1 {
+  background-size: 100% 100%;
+  background-image: url('./img/hd1.png');
+  border-radius: 50%;
+}
+.hd2 {
+  background-size: 100% 100%;
+  background-image: url('./img/hd2.png');
+  border-radius: 50%;
+}
+.hd3 {
+  background-size: 100% 100%;
+  background-image: url('./img/hd3.png');
+  border-radius: 50%;
+}
+.aic {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
