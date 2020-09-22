@@ -1,0 +1,39 @@
+.wrapper {
+  width: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  font-size: 14px;
+}
+.content {
+  width: 90%;
+}
+p {
+  line-height: 1.2;
+}
+.red {
+  color: red;
+}
+.tac {
+  text-align: center;
+}
+.strong {
+  font-weight: bold;
+}
+.w1 {
+  width: 100%;
+}
+img {
+  width: 100%;
+}
+.pt30 {
+  padding-top: 15px;
+}
+.pb30 {
+  padding-bottom: 15px;
+}
